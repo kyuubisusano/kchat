@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854213454834",
+    "project_id": "kchat-62e24",
+    "storage_bucket": "kchat-62e24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854213454834:android:1269cf8107a5b375f1196b",
+        "android_client_info": {
+          "package_name": "com.example.kchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854213454834-onad8ku0gtca4rfqvk1fe5lfdmc9g0h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kchat",
+            "certificate_hash": "46f3b62bae821cfa76171ebb0436b488bbaa7ef2"
+          }
+        },
+        {
+          "client_id": "854213454834-qfd3veric5ru3e7v7ps2fkd79kh2esir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvHppBgFntg6ErVuEc7k7ZObLrxkJpkrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854213454834-qfd3veric5ru3e7v7ps2fkd79kh2esir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
